@@ -1,2 +1,2 @@
 # Patika-sql
-This is an education file
+This is an educational file
